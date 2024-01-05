@@ -1,0 +1,39 @@
+.body
+{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+button
+{
+    background-color: #3882F6;
+}
+
+
+.top 
+{
+    background-color: #1F2937;
+}
+
+.header
+{
+    display: flex;
+    justify-content: space-evenly;
+    color: #f9faf8;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+h1
+{
+    font-size: 48px;
+    display: flex;
+    justify-content: center;
+
+}
